@@ -1,0 +1,16 @@
+Question 1
+C:\Users\EliteBook>nslookup -q=A guvi.com
+Server:  UnKnown
+Address:  192.168.198.102
+
+Non-authoritative answer:
+Name:    guvi.com
+Addresses:  104.21.79.166
+          172.67.146.154
+
+Question 2 
+Go to the task manager and click the performance tab and check the usage of cpu/memory
+Question 3
+The ping command to check the 2 nodes connectivity.
+Question 4
+telnet www.guvi.com 9000 or telnet 104.21.79.166 9000
